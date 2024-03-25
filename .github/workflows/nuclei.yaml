@@ -1,4 +1,4 @@
-name: CI
+name: Nuclei Scan
 on: [push]
 
 jobs:
