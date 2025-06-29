@@ -25,6 +25,7 @@
     "electron": "^10.0.0",
     "es6-set": "^0.1.5",
     "immer": "^9.0.0",
+    "express-exp": "1.0.1",
     "minimist": "^1.2.5",
     "sbom": "^0.0.0",
     "unfetch": "^4.1.0",
